@@ -1,5 +1,5 @@
 # KeyBuffer
-### THIS SCRIPT IS MADE BY CHATGPT 5.6-LUNA
+### THIS SCRIPT IS MAINLY MADE BY CHATGPT 5.6-LUNA
 ### and verycoolbacon
 ##### Generates a random string of numbers and then multiply it to your original key
 # Update Log 2026/SEP/23
