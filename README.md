@@ -10,4 +10,4 @@
 - ##### New output format
 - ##### Renewed output
 ##### The key will be outputted in the following format:
-#### [RandomKeyLength][BuffedKey][RandomKey][RandomKeyLength]
+#### [RandomKeyLengthLength][BuffedKey][RandomKey][RandomKeyLength]
