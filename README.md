@@ -11,3 +11,7 @@
 - ##### Renewed output
 ##### The key will be outputted in the following format:
 #### [RandomKeyLengthLength][BuffedKey][RandomKey][RandomKeyLength]
+
+# Update Log 2026/SEP/24
+## EXTREMELY IMPORTANT:
+## I CHANGED THE LICENSE
