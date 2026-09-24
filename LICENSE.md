@@ -1,25 +1,24 @@
 # COPYRIGHT LICENSE
 
-**Version 2.00 — Last Updated: 2026/SEP/24**
+**Version 2.01 — Last Updated: 2026/SEP/24**
 
-By downloading, using, modifying, copying, or running this software, you agree to follow this license.
+By downloading, using, modifying, copying, or running this script, you agree to follow this license.
 
-If you do not agree with this license, you are not allowed to use, copy, modify, or share this software.
-
+If you do not agree with this license, you are not allowed to use, copy, modify, or share this script.
 ## YOU CAN
 
-* Use, modify, copy, and share this software for non-commercial purposes.
-* Use this software privately without credit if nobody else can see or receive it.
-* Use this software as a dependency or library. In this case, you only need to credit me.
-* Make your own projects inspired by this software. Credit is encouraged but not required if you did not use my code directly.
-* Translate this software into another programming language, as long as you follow the rules for modified/derived versions.
+* Use, modify, copy, and share this script for non-commercial purposes.
+* Use this script privately without credit if nobody else can see or receive it.
+* Use this script as a dependency or library. In this case, you only need to credit me.
+* Make your own projects inspired by this script. Credit is encouraged but not required if you did not use my code directly.
+* Translate this script into another programming language, as long as you follow the rules for modified/derived versions.
 
 ## YOU CANNOT
 
-* Use this software for commercial purposes without permission.
-* Sell this software or sell access to it.
-* Put this software into a paid product without contacting me first.
-* Use this software as AI training data without my permission.
+* Use this script for commercial purposes without permission.
+* Sell this script or sell access to it.
+* Put this script into a paid product without contacting me first.
+* Use this script as AI training data without my permission.
 * Claim that my code is your own work.
 * Register my code as your own work or trademark.
 * Claim that you own the copyright to my code.
@@ -60,9 +59,9 @@ If my code is only used as a dependency or library without copying the code into
 
 If only you can use or see the project, it is considered private use.
 
-Private use does not require you to follow the other requirements of this license, but you must not share the software with another person.
+Private use does not require you to follow the other requirements of this license, but you must not share the script with another person.
 
-If another person can see or receive the software, the full license applies.
+If another person can see or receive the script, the full license applies.
 
 A public repository is considered public use, even if the code is not currently being executed.
 
@@ -70,7 +69,7 @@ A private repository is considered private use only while nobody else has access
 
 ## OUTPUT
 
-If you only share the output or result produced by the software, without sharing my original code:
+If you only share the output or result produced by the script, without sharing my original code:
 
 * You do not need to credit me.
 
@@ -78,19 +77,19 @@ If you only share the output or result produced by the software, without sharing
 
 Commercial use is not allowed without my permission.
 
-If a company uses the software only internally, without modifying it:
+If a company uses the script only internally, without modifying it:
 
 * It is allowed.
 * Credit is required.
 * Open sourcing is not required.
 
-If a company modifies the software for internal use:
+If a company modifies the script for internal use:
 
 * It is allowed.
 * Credit is required.
 * The modified code must be open sourced.
 
-If the software is used directly in a commercial product, service, website, game, or app:
+If the script is used directly in a commercial product, service, website, game, or app:
 
 * This is commercial use and is not allowed without permission.
 
@@ -121,19 +120,19 @@ If you remove my credit:
 
 * You are violating this license.
 * I will ask you to restore the credit.
-* Once corrected, you may continue using the software.
+* Once corrected, you may continue using the script.
 
 If you remove the entire license while keeping the code:
 
 * You are violating this license.
 * I will ask you to restore the full license.
-* Once corrected, you may continue using the software.
+* Once corrected, you may continue using the script.
 
 If you deliberately claim my code is your own, register it as your own work or trademark, or claim ownership of its copyright:
 
 * This is a serious violation.
 * You get one opportunity to correct it.
-* If you do not correct it, you lose permission to use the software.
+* If you do not correct it, you lose permission to use the script.
 
 ## AI TRAINING
 
@@ -145,9 +144,9 @@ If I give permission, it may be used for AI training.
 
 If you violate this license, I will normally give you an opportunity to correct the violation first.
 
-You may continue using the software after correcting the violation.
+You may continue using the script after correcting the violation.
 
-For commercial violations where you have been notified and still refuse to correct the violation, you lose permission to continue using the software.
+For commercial violations where you have been notified and still refuse to correct the violation, you lose permission to continue using the script.
 
 For non-commercial violations, further action depends on the situation.
 
